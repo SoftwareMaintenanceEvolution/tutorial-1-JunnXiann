@@ -1,4 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/O-1AGqKT)
+# Introduction
+
+Hi! I'm Jun Xian, a student in the Software Maintenance and Evolution course. I'm expecting an overview of how i can better build my future projects and further maintain them in good shape with all the modern software maintenance practices and how to work with legacy systems.
+
+- **Fun fact**: I play guitar, run marathons, meditate and sing a lot.
+- **Course expectations**: To gain hands-on experience in maintaining and evolving software.
+
+![My Image](profilePic.jpeg)
+
+## GitHub Profile
 
 Link to customized Github profile:
-https://github.com/JunnXiann?tab=overview&from=2024-10-01&to=2024-10-14
+[here] (https://github.com/JunnXiann?tab=overview&from=2024-10-01&to=2024-10-14)
